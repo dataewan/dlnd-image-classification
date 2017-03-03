@@ -1,0 +1,4 @@
+__pycache__
+cifar-10*
+image_classification.*
+preprocess_*
